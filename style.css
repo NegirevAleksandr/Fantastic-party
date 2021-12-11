@@ -1,0 +1,45 @@
+body {
+    font-family: sans-serif;
+}
+
+header {
+    margin: 10px;
+    padding: 20px;
+    background-color: darkturquoise ;
+    border-radius: 15px;
+}
+header a {
+    background-color: lightgreen;
+    border-radius: 15px;
+    padding: 8px;
+    text-decoration: none;
+    color: black;
+}
+
+header b {
+    margin: 9px;
+}
+main h1 {
+    color: cornflowerblue;
+}
+
+footer {
+    padding: 10px;
+    background-color: black;
+    color: white;
+    border-radius: 25px;
+}
+
+.all {
+    width: 100%;
+}
+
+nav {
+    padding: 10px;
+    border: 2px solid dodgerblue;
+}
+nav a {
+    padding: 5px;
+    border: 1px solid green;
+    border-radius: 15px ;
+}
